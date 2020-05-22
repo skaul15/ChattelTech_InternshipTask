@@ -2,6 +2,7 @@
 to be submitted on 22 May 2020
 
 trading_yahoo_rl_test.py 
+
 Internship task to convert *.py file to *.pynb file and plot a graph.
 
 Task 1- To convert .py file to its notebook version by typing code p2j <filname.py> at command line or terminal.
